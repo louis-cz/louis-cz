@@ -1,6 +1,6 @@
 # Hi, I'm Louis !
 
-With a background in software engineering and biology I work in **bioinformatics** public research. I'm based in France and I'm still a student!
+With a background in software engineering and biology I work in **bioinformatics**. I'm based in France and I'm still a student!
 
 ### Professional repos
 
