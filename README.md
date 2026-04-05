@@ -29,20 +29,24 @@ With a background in software engineering and biology I work in **bioinformatics
 #### **Python**
 - Mathematical simulation: `numpy`, `scipy`
 - Machine learning: `pytorch`, `sklearn`
-- Data handling: `pandas`
-- Data visualization: `seaborn`, `matplotlib`
-- Others : `jupyter`, `pytest` 
+- Data handling: `pandas`, `polars`
+- Data visualization: `seaborn`, `matplotlib`, `plotly`
+- Others: `jupyter`, `pytest` 
 
 #### **R**
-- Bioinformatics : `EdgR`
-- Data visualization : `ggplot2`
-- Statistical analysis: `FactoMineR`
+- Bioinformatics : `EdgR`, `DESeq2`
+- Data visualization : `ggplot2`, 
+- Statistical analysis: `FactoMineR`, `stats`
 - Reporting : `knitR`, `Rmarkdown`, `Shiny`
 
 #### **Web Development**
 - Front-end : `HTML`, `CSS`, `JavaScript`
-- Back-end : `Flask (python)`
-- Deployment : `Docker`, `Git`
+- Back-end : `Flask`
+- Deployment : `Docker`
 
 #### **Others**
-- `LaTeX`
+- Pipelines: `Nextflow`
+- Containers: `Singularity/Apptainer`, `Docker`
+- Package management: `conda`, `mamba`, `pip`
+- Version control: `Git`, `GitHub`, `GitLab`
+- Documentation: `LaTeX`, `markdown`
